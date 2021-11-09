@@ -1,0 +1,8 @@
+1.Open
+2.Assigned
+3.In Progress
+4.Fixed
+5.Verified
+6.Reopened
+7.Declined
+8.Closed
