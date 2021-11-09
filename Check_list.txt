@@ -1,0 +1,18 @@
+registration
+Email
+Social network
+Validating fields
+
+Authorization
+User activated
+User not activated
+Password recovery
+Validating fields
+
+Profile
+Name change
+Change Email
+Password Changes
+Validating fields
+Subscription
+Account deleting
